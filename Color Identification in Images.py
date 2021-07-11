@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # # Color Identification in Images
 
@@ -103,5 +101,3 @@ while True:
 
 cv2.destroyAllWindows()
 
-
-# # Thank You So much Please do give your sugestion 
